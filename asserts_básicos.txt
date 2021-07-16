@@ -1,0 +1,202 @@
+Running 'CT_CADASTRO_EMAIL'
+14:25:13
+1.
+open on https://www.rdstation.com/marketing/email-marketing/?network=g&utm_source=search&utm_medium=cpc&utm_campaign=BR-INB-RDSM-SEARCH-FEATURES_RELACIONAR-PHRASE&utm_content=email-mkt-como-fazer-526592012535&utm_term=fazer%20um%20email-p&device=c-&gclid=Cj0KCQjwub-HBhCyARIsAPctr7xqFVw_SfTMinBcLYd6qOWnBnxXIhOxq3AZwG-fx-cuTFifhIJlDA0aAr7gEALw_wcB OK
+14:25:14
+2.
+setWindowSize on 683x728 OK
+14:25:14
+3.
+assertElementPresent on css=.form-signup-lm:nth-child(4) > .input-sm OK
+14:25:15
+4.
+assertElementPresent on css=.btn:nth-child(5) OK
+14:25:19
+5.
+click on css=.form-signup-lm:nth-child(4) > .input-sm OK
+14:25:20
+6.
+type on css=.form-signup-lm:nth-child(4) > .input-sm with value dbcteste@dbc.com.br OK
+14:25:20
+7.
+click on css=.btn:nth-child(5) OK
+14:25:21
+8.
+runScript on window.scrollTo(0,532) OK
+14:25:22
+9.
+runScript on window.scrollTo(0,799) OK
+14:25:24
+10.
+runScript on window.scrollTo(0,241) OK
+14:25:25
+11.
+assertText on css=.iMzGfs with value Já tenho uma conta. Entrar OK
+14:25:26
+12.
+assertElementPresent on linkText=Entrar OK
+14:25:26
+13.
+assertText on css=.NvIVq with value Comece seus 10 dias de teste grátis do RD Station Marketing! OK
+14:25:27
+14.
+assertText on css=.hVVGyG with value Não precisa cadastrar cartão de crédito. OK
+14:25:27
+15.
+assertElementPresent on css=.hVVGyG OK
+14:25:28
+16.
+assertText on css=.sc-fzqBZW:nth-child(1) > .Text__Root-asn4rv-0 with value Diga, qual seu nome? OK
+14:25:29
+17.
+assertElementPresent on id=name OK
+14:25:29
+18.
+mouseDown on css=.sc-fzqBZW:nth-child(2) > .Text__Root-asn4rv-0 OK
+14:25:30
+19.
+mouseUp on css=form OK
+14:25:30
+20.
+assertText on css=.sc-fzqBZW:nth-child(2) > .Text__Root-asn4rv-0 with value Seu email de trabalho OK
+14:25:31
+21.
+assertElementPresent on id=email OK
+14:25:32
+22.
+assertText on css=.Text__Root-asn4rv-0:nth-child(3) with value Qual o site da sua empresa? OK
+14:25:32
+23.
+assertElementPresent on id=site OK
+14:25:33
+24.
+mouseUp on css=.sc-fzqBZW:nth-child(4) > .Text__Root-asn4rv-0 OK
+14:25:33
+25.
+assertElementPresent on css=.sc-fzqBZW:nth-child(4) > .Text__Root-asn4rv-0 OK
+14:25:34
+26.
+assertElementPresent on css=.sc-fzqBZW:nth-child(4) > .Text__Root-asn4rv-0 OK
+14:25:35
+27.
+assertElementPresent on css=.sc-fzqBZW:nth-child(4) > .Text__Root-asn4rv-0 OK
+14:25:35
+28.
+mouseDownAt on css=.sc-fznxKY with value 5,262 OK
+14:25:36
+29.
+mouseMoveAt on css=.sc-fznxKY with value 5,262 OK
+14:25:36
+30.
+mouseUpAt on css=.sc-fznxKY with value 5,262 OK
+14:25:37
+31.
+click on css=.sc-fznxKY OK
+14:25:38
+32.
+type on id=email with value dbcteste@dbc.com OK
+14:25:38
+33.
+mouseOver on css=.hAnomB OK
+14:25:39
+34.
+click on css=.hAnomB OK
+14:25:40
+35.
+mouseOut on css=.hAnomB OK
+14:25:40
+36.
+runScript on window.scrollTo(0,438) OK
+14:25:41
+37.
+mouseDownAt on css=html with value -8,843 OK
+14:25:42
+38.
+mouseMoveAt on css=html with value -8,843 OK
+14:25:42
+39.
+mouseUpAt on css=html with value -8,843 OK
+14:25:43
+40.
+click on css=html OK
+14:25:43
+41.
+click on css=.hAnomB OK
+14:25:44
+42.
+runScript on window.scrollTo(0,438) OK
+14:25:45
+43.
+assertText on css=.sc-fzqBZW:nth-child(1) > .GfOWC with value Este campo não pode ficar em branco OK
+14:25:45
+44.
+mouseDownAt on id=email with value 2,26 OK
+14:25:46
+45.
+mouseMoveAt on id=email with value 2,26 OK
+14:25:47
+46.
+mouseUpAt on id=email with value 2,26 OK
+14:25:47
+47.
+click on id=email OK
+14:25:48
+48.
+type on id=email OK
+14:25:48
+49.
+click on css=form OK
+14:25:49
+50.
+runScript on window.scrollTo(0,838) OK
+14:25:50
+51.
+click on css=.hAnomB OK
+14:25:50
+52.
+assertText on css=.sc-fzqBZW:nth-child(2) > .GfOWC with value Este campo não pode ficar em branco OK
+14:25:51
+53.
+assertText on css=.sc-fzqBZW:nth-child(4) > .Text__Root-asn4rv-0 with value Isso é fundamental para uma experiência completa do RD Station. Você poderá alterá-lo quando desejar. OK
+14:25:52
+54.
+assertText on css=.sc-fzqBZW:nth-child(5) > .GfOWC with value Este campo não pode ficar em branco OK
+14:25:52
+55.
+click on id=name OK
+14:25:53
+56.
+type on id=name with value Filipe Muanis OK
+14:25:53
+57.
+type on id=email with value filipemuanis@outlook.com OK
+14:25:54
+58.
+click on id=site OK
+14:25:55
+59.
+type on id=site with value dbdteste.com.br OK
+14:25:55
+60.
+click on id=site OK
+14:25:56
+61.
+type on id=site with value dbcteste.com.br OK
+14:25:56
+62.
+click on id=password OK
+14:25:57
+63.
+type on id=password with value 1234567. OK
+14:25:58
+64.
+click on css=.sc-fznZeY OK
+14:25:58
+65.
+click on css=.sc-fznZeY OK
+14:25:59
+66.
+click on css=.hAnomB OK
+14:26:00
+'CT_CADASTRO_EMAIL' completed successfully
+14:26:00
