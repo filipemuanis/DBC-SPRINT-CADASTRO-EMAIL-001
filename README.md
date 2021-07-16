@@ -1,2 +1,2 @@
-# DBC-SPRINT-CADASTRO-EMAIL-001
-Teste automatizado cadastro de email - DBC
+# DBC-SPRINT-CADASTRAR-EMAIL-001
+Teste automatizado cadastar email - DBC
